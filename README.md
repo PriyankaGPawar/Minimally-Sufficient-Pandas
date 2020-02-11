@@ -1,14 +1,4 @@
-# Become an Expert!
-
-If you are looking to become an expert, check out my books:
-
-* [Exercise Python][0]
-* [Master Data Analysis with Python][0]
-* [Master Machine Learning with Python][0]
-
-They are all extremely comprehensive and offer lots of exercises with detailed solutions.
-
-[0]: https://www.dunderdata.com/store
+## credit of the repository to tdpetrou/Minimally-Sufficient-Pandas
 
 # Mininally Sufficient Pandas Guidelines
 
